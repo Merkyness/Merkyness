@@ -17,7 +17,7 @@
 <img width="1912" height="19" alt="Image" src="https://github.com/user-attachments/assets/55ed57ed-518f-4101-bf33-635e812e01ce" />
 
 ## &nbsp; About Me
-```
+```ts
 Minor
 Location : Bulgaria 🇧🇬
 Timezone : UTC+2/3
