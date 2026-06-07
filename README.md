@@ -4,4 +4,4 @@
 
 <br/>
 [![Static Badge](custom-icon-badges.demolab.com/badge/n3e0-gray?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=purple)]
-[![Static Badge2](custom-icon-badges.demolab.com/badge/merkyw-gray?style=for-the-badge&logo=youtube&logoColor=white&label=youtube&labelColor=red)] (https://www.youtube.com/@merkyw)
+[![Static Badge2](https://img.shields.io/badge/merkyw-gray?style=for-the-badge&logo=youtube&logoColor=white&label=youtube&labelColor=red&link=https%3A%2F%2Fwww.youtube.com%2F%40merkyw)] (https://www.youtube.com/@merkyw)
