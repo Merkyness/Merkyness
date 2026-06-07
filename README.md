@@ -6,7 +6,7 @@
 
 [![Discord](https://custom-icon-badges.demolab.com/badge/n3e0-gray?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=purple)](https://discordapp.com/users/986587576485937213)
 [![YouTube](https://custom-icon-badges.demolab.com/badge/merkyw-gray?style=for-the-badge&logo=youtube&logoColor=white&label=youtube&labelColor=red)](https://www.youtube.com/@merkyw)
-[![Profile Views](https://komarev.com/ghpvc/?username=Merkyness&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS)](https://github.com/Merkyness)
+[![Profile Views](https://komarev.com/ghpvc/?username=Merkyness&style=for-the-badge&labelColor=22C55E&label=PROFILE+VIEWS)](https://github.com/Merkyness)
 <img width="1912" height="19" alt="Image" src="https://github.com/user-attachments/assets/55ed57ed-518f-4101-bf33-635e812e01ce" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Merkyness)](https://git.io/streak-stats)
