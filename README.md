@@ -16,8 +16,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Merkyness)](https://git.io/streak-stats)
 <img width="1912" height="19" alt="Image" src="https://github.com/user-attachments/assets/55ed57ed-518f-4101-bf33-635e812e01ce" />
 
-## &nbsp; About Me
 </div>
+
+## &nbsp; About Me
 ```
 Minor
 Location : Bulgaria 🇧🇬
