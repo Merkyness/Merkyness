@@ -10,5 +10,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Merkyness)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Merkyness)](https://github.com/anuraghazra/github-readme-stats)
+![=GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <img width="1912" height="19" alt="Image" src="https://github.com/user-attachments/assets/55ed57ed-518f-4101-bf33-635e812e01ce" />
