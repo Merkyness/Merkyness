@@ -13,7 +13,7 @@
 
 ## &nbsp; My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Merkyness)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Merkyness&theme=transparent&hide_border=true&currStreakLabel=EBEBEB&dates=EBEBEB&ring=7A7A7A&stroke=FFFFFF&sideNums=EBEBEB&currStreakNum=EBEBEB&fire=989898&sideLabels=EBEBEB&background=000000)](https://git.io/streak-stats)
 <img width="1912" height="19" alt="Image" src="https://github.com/user-attachments/assets/55ed57ed-518f-4101-bf33-635e812e01ce" />
 
 ## &nbsp; About Me
