@@ -22,7 +22,6 @@
   
 ```
 Age Group : Minor
-Location : Bulgaria 🇧🇬
 Timezone : UTC+2/3
 Passion : I work with tiny development projects to spend free time.
 Availability : I don't work in projects. Can help with a thing or two in scripting.
