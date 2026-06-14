@@ -2,6 +2,8 @@
 
 <img width="1200" height="480" alt="Image" src="https://github.com/user-attachments/assets/dd5820a2-03e5-40d7-b656-fe5a903d3d55" />
 
+I'm just merky <img width="220" height="204" alt="Image" src="https://github.com/user-attachments/assets/ec9761f5-a58b-43f6-b212-943bd84b4328" />
+
 <img width="1912" height="19" alt="Image" src="https://github.com/user-attachments/assets/55ed57ed-518f-4101-bf33-635e812e01ce" />
 
 ## &nbsp; Connections
